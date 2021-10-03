@@ -25,14 +25,14 @@ This project is divided in 3 python notebooks where we developped 3 differents m
 RESULTS :
 
 - Machine Learning with Scikit-learn : 
-  -> Logistic Regression :
-  -> Multinomial Naïve Bayes :
+  - Logistic Regression :
+  - Multinomial Naïve Bayes :
   
 - Deep Learning with Tensorflow :
-  -> CNN : 
+  - CNN : 
   
 - Machine Learning with Spark :
-  -> Cleaning and pre-processing efficient but i didn't managed to pass the training step yet.
+  - Cleaning and pre-processing efficient but i didn't managed to pass the training step yet.
   
 
 
