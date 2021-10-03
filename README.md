@@ -14,8 +14,8 @@ This project is divided in 3 python notebooks where we developped 3 differents m
 - Deep Learning (Neural Network) with TensorFlow :
   - Cleaning : Balance label to have equal bad and good URLs and reduce our dataset to 40 000 values.
   - Pre-processing : Two parralel processing 
-    -> Dividing each URL into domain, subdomain, domain suffix.
-    -> Giving for each character an ID that will create for each urls a sequence of number representing each character of the url
+    - Dividing each URL into domain, subdomain, domain suffix.
+    - Giving for each character an ID that will create for each urls a sequence of number representing each character of the url
   - Training : Use of a parralel CNN structure with the two differents dataset given by the two preprocessing methods.
 
 - Machine Learning with Spark :
